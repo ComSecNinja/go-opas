@@ -1,2 +1,1 @@
-# go-opas
-Suomenkielinen opas Go-ohjelmointikielen pariin
+# Go-opas
