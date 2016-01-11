@@ -1,5 +1,5 @@
 # Summary
 
 * Johdanto
-* Perusteet
+* [Asentaminen](luvut/install.md)
 
